@@ -33,3 +33,7 @@ html {
   border-width: 10px;
   border-style: double;
 }
+#container{
+  display: flex;
+  
+}
