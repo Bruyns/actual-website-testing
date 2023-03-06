@@ -27,13 +27,16 @@ li {
 html {
   background-color: black;
   margin: 5px;
-  margin-right: 20%;
   border: 15px 15px 15px 15px;
   border-color: white;
   border-width: 10px;
   border-style: double;
 }
-#container{
+nav {
   display: flex;
+  border: 1px;
+  padding: 10px;
+}
+#box1{
   
 }
